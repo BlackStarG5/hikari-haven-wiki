@@ -4,7 +4,7 @@
 
 ## Updates
 
-* [Page 1](updates/page-1.md)
+* [✨ Cobblemon 1.8 Make Your Move Update](updates/cobblemon-1.8-make-your-move-update.md)
 
 ## New Player Info
 
