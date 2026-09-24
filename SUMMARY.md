@@ -8,7 +8,9 @@
 
 ## New Player Info
 
-* [Page 3](new-player-info/page-3.md)
+* [📜Server Rules](new-player-info/server-rules.md)
+* [Installation](new-player-info/installation/README.md)
+  * [Modrinth](new-player-info/installation/modrinth.md)
 
 ## Features
 
